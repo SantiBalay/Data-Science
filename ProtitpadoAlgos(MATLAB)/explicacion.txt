@@ -1,1 +1,0 @@
-Estos ejercicios son del curso introductor a ML de AndrewNg. Los algoritmos están resueltos en Matlab con ayuda de algunas funciones prehechas, pero los algoritmos en si y los gradientes y demás partes importantes están resueltas por mi.

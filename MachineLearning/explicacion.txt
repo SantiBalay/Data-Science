@@ -1,0 +1,1 @@
+Despues de haber prototipado los distintos algoritmos en MATLAB o Python, los aplique también con el stack de numpy/scipy. Me pareció importante hacer ambos.

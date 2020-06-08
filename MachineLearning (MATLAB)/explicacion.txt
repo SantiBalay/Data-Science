@@ -1,0 +1,1 @@
+Estos ejercicios son del curso introductor a ML de AndrewNg. Los algoritmos están resueltos en Matlab pero podrían sencillamente ser pasados a Python o R. 
